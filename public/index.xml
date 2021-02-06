@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A2 podcast</title>
+    <link>/</link>
+    <description>Recent content on A2 podcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>001</title>
+      <link>/001/</link>
+      <pubDate>Sat, 06 Feb 2021 10:37:02 +0100</pubDate>
+      <guid>/001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
